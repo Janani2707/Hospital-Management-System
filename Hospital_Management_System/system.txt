@@ -1,0 +1,2 @@
+admin should add locations in Murang'a
+	this will helpful to determine the outbreak in each and every ward
